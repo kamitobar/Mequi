@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1084882586525",
+    "firebase_url": "https://mequi-7c78b.firebaseio.com",
+    "project_id": "mequi-7c78b",
+    "storage_bucket": "mequi-7c78b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084882586525:android:4717ede1ced227ae",
+        "android_client_info": {
+          "package_name": "camilatobar.mequi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084882586525-m8b2suvmlokhihdqvgm2o353gnju23l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "camilatobar.mequi",
+            "certificate_hash": "a665007169fa93e96afc2f00a30c3bcc899d8ece"
+          }
+        },
+        {
+          "client_id": "1084882586525-6jsb61kf265bdkoks6u3hig558m6o4ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGYSWkfbJ-4wjIK1fwJBOGqb1Pxt7UV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084882586525-6jsb61kf265bdkoks6u3hig558m6o4ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
